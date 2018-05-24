@@ -1,0 +1,683 @@
+# Translation of Themes - Business Directory in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Business Directory package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-28 17:47:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Business Directory\n"
+
+#. Description of the plugin/theme
+msgid "Business Directory for WordPress is one of the easiest themes to build your Web Presence in 10 Minutes. Just with in 5 Simple Steps. The Theme is highly customizable and with the presence of several background patterns and Theme Options, You can have your own branded new Website for your Business or Personal Use in Minutes. Features Templates for Blogs, Gallery, Fullwidth Page without sidebar and Contact Us Page."
+msgstr "Business Directory para o WordPress é um dos temas mais fáceis para construir sua presença na Web em 10 minutos. Com apenas 5 etapas simples. O tema é altamente personalizável, com vários padrões de fundo e opções de tema. Você pode ter um site próprio para o seu negócio ou para uso pessoal em minutos. Modelos de páginas para blogs, galeria, página de largura total sem lateral e página de contato."
+
+#. Theme Name of the plugin/theme
+msgid "Business Directory"
+msgstr "Business Directory"
+
+#: functions.php:212
+msgid "Do not allow"
+msgstr "Não permitir"
+
+#: functions.php:212
+msgid "Allow Sending"
+msgstr "Permitir o envio"
+
+#: functions.php:212
+msgid "Allow Business-directory theme to send you setup guide? Opt-in to our newsletter and we will immediately e-mail you a setup guide along with 20% discount which you can use to purchase any theme."
+msgstr "Permitir que o tema Business Directory te envie um guia de instalação? Assine a nossa newsletter e enviaremos imediatamente um e-mail com o guia de instalação juntamente com 20% de desconto que você pode usar para comprar qualquer tema."
+
+#: tag.php:14
+msgid "Tag Archives: %s"
+msgstr "Arquivos da Tag: %s"
+
+#: sidebar.php:9
+msgid "Search:"
+msgstr "Pesquisar:"
+
+#: loop.php:16 single.php:25
+msgid "% Comments."
+msgstr "% Comentários."
+
+#: loop.php:16 single.php:25
+msgid "1 Comment."
+msgstr "1 comentário."
+
+#: loop.php:16 single.php:25
+msgid "0 Comments."
+msgstr "Sem comentários."
+
+#: loop.php:10
+msgid "Permanent Link to %s"
+msgstr "Link permanente para %s"
+
+#: author.php:25
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: admin/customizer.php:293
+msgid "Need Help!"
+msgstr "Preciso de ajuda!"
+
+#: attachment.php:30
+msgid "Published %2$s"
+msgstr "Publicado %2$s"
+
+#: functions.php:153
+msgid "The selected file could not be copied to %s."
+msgstr "O arquivo selecionado não pode ser copiado para %s."
+
+#: functions.php:125
+msgid "Sorry, That file already exists in the WordPress media library."
+msgstr "Desculpe, o nome de arquivo já existe na Biblioteca de mídia do WordPress."
+
+#: functions.php:116
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Desculpe, este tipo de arquivo não é permitido por regras de segurança."
+
+#: admin/themes-page.php:313
+msgid "Get Free Support"
+msgstr "Obter Suporte Gratuito"
+
+#: admin/themes-page.php:312
+msgid "Get Best Theme support. We are always ready to solve your queries. Just started your query at InkThemes.com"
+msgstr "Obtenha o melhor suporte a temas. Estamos sempre prontos para resolver suas perguntas. Comece a perguntar em InkThemes.com"
+
+#: admin/themes-page.php:311
+msgid "Rate us on WordPress.org "
+msgstr "Nos avalie no WordPress.org "
+
+#: admin/themes-page.php:307
+msgid "Get the geocraft Pro"
+msgstr "Obter o geocraft Pro"
+
+#: admin/themes-page.php:306
+msgid "You are using the Lite Version of blackwell Theme. Upgrade to Pro for extra features like Home Page Slider Contact Page, Gallery Features, Portfolio Page Template, FullWidth Page Templates, Multiple Color Options and much more."
+msgstr "Você está usando a versão Lite to tema Blackwell. Atualize para Pro para obter recursos extras como slider deslizante de contato na página inicial, recursos de galeria, modelo de página de portfólio, modelos de página de largura total, várias opções de cores e muito mais."
+
+#: admin/themes-page.php:305
+msgid "Get the geocraft Pro Theme"
+msgstr "Obter o tema geocraft Pro"
+
+#: admin/themes-page.php:289
+msgid "We'll send you new updates about themes and WordPress and a free WordPress tips & tricks ebook!"
+msgstr "Nos te enviaremos as novas atualizações sobre temas e WordPress e um eBook gratuito com dicas e truques para o WordPress!"
+
+#: admin/themes-page.php:288
+msgid "Get Themes email updates and a free WordPress ebook"
+msgstr "Receba atualizações sobre temas por e-mail e um ebook grátis do WordPress"
+
+#: admin/themes-page.php:277
+msgid "Try GeoCraft Lite for FREE"
+msgstr "Experimente gratuitamente o GeoCraft Lite"
+
+#: admin/themes-page.php:273
+msgid "Buy GeoCraft Theme"
+msgstr "Comprar o tema GeoCraft"
+
+#: admin/themes-page.php:269
+msgid "Fully Responsive WordPress Business Directory Theme, One Click Auto Install. Extremely Easy to use. You can create Featured Business Listing. Can generate revenue for you via Paypal (Complete Integrated System) You can create Free/Paid Business Listing. Fully Integrated with User Submission System and much more"
+msgstr "Tema totalmente responsivo de diretório de negócios para WordPress, instalação automática com um clique. Extremamente fácil de usar. Você pode criar anúncio de negócios. Pode gerar receita para você através do Paypal (sistema integrado completo) você pode criar anúncios de negócios grátis/pagos. Totalmente integrado com um sistema de envio do usuário e muito mais"
+
+#: admin/themes-page.php:267
+msgid "Now you can easily setup a WP directory listing website and start earning online. GeoCraft v2 Theme lets you get your City Business Directory Website online within minutes."
+msgstr "Agora você pode facilmente configurar um site de catálogo de negócios no WP e começar a ganhar online. O tema GeoCraft v2 te permite obter um catálogo de negócios locais de sua cidade em minutos."
+
+#: admin/themes-page.php:263
+msgid "GeoCraft Directory Theme"
+msgstr "Tema de diretório GeoCraft"
+
+#: admin/themes-page.php:249
+msgid "Try Harrington Lite for FREE"
+msgstr "Experimente gratuitamente o Harrington Lite"
+
+#: admin/themes-page.php:245
+msgid "Buy Harrington Theme"
+msgstr "Comprar o tema Harrington"
+
+#: admin/themes-page.php:241
+msgid "Harrington comes with Ken Burns slider which gives animation effects to your slider images.. That makes Harrington completely outstanding as compared to other WordPress themes. You can adjust the speed of slider as well from the theme option panel"
+msgstr "Harrington vem com Ken Burns no slider deslizante que dá efeitos de animação para suas imagens no slider… Isso torna o Harrington excelente em comparação com outros temas do WordPress. Você também pode ajustar a velocidade de slider do painel de opções do tema"
+
+#: admin/themes-page.php:239
+msgid "Harrington is a nice, clean and one of the super WordPress themes for business that comes with a variable slider on home page which gives a moving effect to your images."
+msgstr "Harrington é belo, limpo, e um dos super-temas do WordPress para negócios que vem com um slider deslizante variável na página inicial, que dá um efeito de movimento às suas imagens."
+
+#: admin/themes-page.php:235
+msgid "Harrington Theme"
+msgstr "Tema Harrington"
+
+#: admin/themes-page.php:221
+msgid "Try Photomaker Lite for FREE"
+msgstr "Experimente gratuitamente o Photomaker Lite"
+
+#: admin/themes-page.php:217
+msgid "Buy Photomaker Theme"
+msgstr "Comprar o tema Photomaker"
+
+#: admin/themes-page.php:213
+msgid "We have very carefully designed and crafted this theme to make your photos look elegant and spectacular on any device. Now you can market your work with this photography theme and can showcase your collection on your WordPress website."
+msgstr "Nós elaboramos e concebemos cuidadosamente este tema para fazer com que suas fotos pareçam elegantes e espetaculares em qualquer dispositivo. Agora você pode vender seu trabalho com este tema de fotografia e mostrar sua coleção em seu site WordPress."
+
+#: admin/themes-page.php:211
+msgid "As a Photographer one must need to display their work online, as it is the best means of demonstrating your high quality photographs and arts which makes you stand out among all."
+msgstr "Como fotógrafo, é necessário exibir seu trabalho online, e esse é o melhor jeito de mostrar suas fotografias e artes de alta qualidade que farão você se destacar entre os demais."
+
+#: admin/themes-page.php:207
+msgid "Photomaker Theme"
+msgstr "Tema Photomaker"
+
+#: admin/themes-page.php:193
+msgid "Try ButterBelly Lite for FREE"
+msgstr "Experimente gratuitamente o ButterBelly Lite"
+
+#: admin/themes-page.php:189
+msgid "Buy ButterBelly Theme"
+msgstr "Comprar o tema ButterBelly"
+
+#: admin/themes-page.php:185
+msgid "ButterBelly is a clean, elegant and fully responsive Corporate WordPress Theme, designed specially for corporate websites. The theme is very easy to use and simple to handle. It makes easier for you to get your site ready in few minutes."
+msgstr "ButterBelly é um tema corporativo para WordPress, limpo, elegante e totalmente responsivo, projetado especialmente para sites empresariais. O tema é muito fácil de usar e simples de operar. Permite que você consiga facilmente deixar seu site pronto em poucos minutos."
+
+#: admin/themes-page.php:183
+msgid "For creating a informative corporate WordPress website that perfectly highlights your company profile, business services, attract new visitors, generate leads etc, one need to have a awesome corporate WordPress theme like ButterBelly."
+msgstr "Para criar um site WordPress corporativo informativo que evidencia perfeitamente o perfil da sua empresa, serviços profissionais, atraia novos visitantes, gere leads etc., é necessário ter um tema empresarial do WordPress impressionante como o ButterBelly."
+
+#: admin/themes-page.php:179
+msgid "Butterbelly Theme"
+msgstr "Tema Butterbelly"
+
+#: admin/themes-page.php:165
+msgid "Try BlackRider Lite for FREE"
+msgstr "Experimente gratuitamente o BlackRider Lite"
+
+#: admin/themes-page.php:161
+msgid "Buy BlackRider Theme"
+msgstr "Comprar o tema BlackRider"
+
+#: admin/themes-page.php:157
+msgid "The theme comes  integrated with lead capture WordPress plugin. Just activate the plugin after installing the theme and start  getting leads. The plugin dispatches a beautiful lead capture form on your website."
+msgstr "O tema vem integrado com um plugin de captura de leads. Basta ativar o plugin depois de instalar o tema e começar a receber os leads. O plugin exibe um belo formulário de captura de leads em seu site."
+
+#: admin/themes-page.php:154
+msgid "BlackRiders is one of best WordPress themes for lead generation. It gives an amazing look to your website and grabs leads for your business. You can easily capture leads from the homepage of your website. BlackRiders lets you create your business website within a minute. You can build up a very attractive business website to showcase your products and services in a better way."
+msgstr "BlackRiders é um dos melhores temas WordPress para geração de leads. Dá um aparência surpreendente para o seu site e captura leads para o seu negócio. Você pode facilmente capturar leads na página inicial do seu site. BlackRiders permite que você crie seu site empresarial num minuto. Você pode construir um site de negócios muito atraente para mostrar seus produtos e serviços de uma jeito melhor."
+
+#: admin/themes-page.php:150
+msgid "BlackRider Theme"
+msgstr "Tema BlackRider"
+
+#: admin/themes-page.php:136
+msgid "Try BlackWell Lite for FREE"
+msgstr "Experimente gratuitamente o BlackWell Lite"
+
+#: admin/themes-page.php:132
+msgid "Buy BlackWell Theme"
+msgstr "Comprar o tema BlackWell"
+
+#: admin/themes-page.php:128
+msgid "Cool thing about BlackWell home page is it comes with a single page scrolling effect which grabs visitors attention and makes site look attractive. A start up loading timer is also there to engage the user while your site is getting loaded."
+msgstr "Uma coisa legal sobre a página inicial do BlackWell é ela vem com um efeito de rolagem de página única que chama a atenção dos visitantes e torna sua aparência atraente. Um temporizador de carregamento inicial também está presente para envolver o usuário enquanto seu site está carregando."
+
+#: admin/themes-page.php:125
+msgid "BlackWell is a highly professional One Page WordPress Theme for creating interior designing websites. It provides an eye catching look showcasing most important features of your work."
+msgstr "BlackWell é um tema de WordPress altamente profissional de página única para a criação de websites de design de interiores. Ele fornece uma aparência atraente, apresentando as características mais importantes do seu trabalho."
+
+#: admin/themes-page.php:121
+msgid "BlackWell Theme"
+msgstr "Tema BlackWell"
+
+#: admin/themes-page.php:107
+msgid "Try Compass Lite for FREE"
+msgstr "Experimente gratuitamente o Compass Lite"
+
+#: admin/themes-page.php:103
+msgid "Buy Compass Theme"
+msgstr "Comprar o tema Compass"
+
+#: admin/themes-page.php:99
+msgid "Compass is packed with some amazing features such as attractive multiple image Slider, facility to add video/testimonials on the homepage, showing portfolios, several page templates. Got a wonderful featured content moving sliders. Various fab icons with dynamic effect to show up your services in three-column featured area. And much more.."
+msgstr "O tema Compass inclui algumas características surpreendentes tais como um atraente Slider de várias imagens, facilidade para adicionar vídeos/depoimentos na página inicial, apresentação de portfolios e vários modelos de página. Tem maravilhosos sliders de conteúdo em destaque. Vários ícones fabulosos com efeito dinâmico para mostrar seus serviços numa área de destaque em três colunas. E muito mais..."
+
+#: admin/themes-page.php:97
+msgid "Compass is an awesome Professional Business WordPress theme with featured content sliders. It helps you to effectively showcase your business to your website visitors. The most rocking part is, it has got amazing animation effect in almost every part of its feature."
+msgstr "Bússola é um incrível tema para WordPress de negócios profissionais com sliders de conteúdo destacados. Ajuda você a efetivamente mostrar seu negócio para os visitantes do seu site. É a parte mais bacana é o efeito de animação surpreendente em quase todos os seus recursos."
+
+#: admin/themes-page.php:93
+msgid "Compass Theme"
+msgstr "Tema Compass"
+
+#: admin/themes-page.php:80
+msgid "Try Colorway Lite for FREE"
+msgstr "Experimente gratuitamente o Colorway Lite"
+
+#: admin/themes-page.php:77
+msgid "Buy Colorway Theme"
+msgstr "Comprar o tema Colorway"
+
+#: admin/themes-page.php:74
+msgid "Colorway Theme is perfect for quick and easy blogging with a clean and modern interface and tons of features. The layout does not distract from your content, which is vital for a site devoted to business & blogging."
+msgstr "O tema Colorway é perfeito para blogs rápidos e fácil, com uma interface limpa e moderna e toneladas de características. Não distraia o layout de seu conteúdo, que é vital para um site dedicado a negócios & blogging."
+
+#: admin/themes-page.php:72
+msgid "The best thing about Colorway Theme is the ease with the help of which you can convert your Website in various different Niches. &#8220;Your Clients Would Love Their Site & You Would smile in the back thinking about the Time That You Spend Building their Sites.&#8221;"
+msgstr "A melhor coisa do tema Colorway é a facilidade com a qual você pode converter o seu site em vários nichos diferentes. &#8220;Seu clientes irão amar seus sites você ficará sorrindo ao pensar no tempo que levou para construí-los.&#8221;"
+
+#: admin/themes-page.php:68
+msgid "Colorway Theme"
+msgstr "Tema Colorway"
+
+#: admin/themes-page.php:45
+msgid "Upgrade to Pro"
+msgstr "Atualizar para o Pro"
+
+#: admin/themes-page.php:44
+msgid "View Pro Demo"
+msgstr "Ver demonstração Pro"
+
+#: admin/themes-page.php:41
+msgid "Collects Payment"
+msgstr "Recolhe pagamentos"
+
+#: admin/themes-page.php:40
+msgid "Inbuilt Registration/Login Panel"
+msgstr "Painel de login/registro embutido"
+
+#: admin/themes-page.php:39
+msgid "Translation Ready"
+msgstr "Pronto para traduções"
+
+#: admin/themes-page.php:38
+msgid "Seo optimized Theme"
+msgstr "Tema otimizado para SEO"
+
+#: admin/themes-page.php:33
+msgid "Collects leads"
+msgstr "Coleta leads"
+
+#: admin/themes-page.php:32
+msgid "Paid and Free Listing"
+msgstr "Anúncios grátis e pagos"
+
+#: admin/themes-page.php:31
+msgid "PDF/Video Documentations"
+msgstr "Documentações em PDF/Vídeo"
+
+#: admin/themes-page.php:30
+msgid "Inbuilt Paypal Getway Intregation"
+msgstr "Integração de pagamento Paypal nativa"
+
+#: admin/themes-page.php:27
+msgid "Geocraft Pro Version Features"
+msgstr "Características do Geocraft Pro"
+
+#: admin/customizer.php:291
+msgid "View PRO version"
+msgstr "Conheça a versão PRO"
+
+#: admin/customizer.php:140
+msgid "Mention the URL of your RSS here."
+msgstr "Informe o URL do seu RSS aqui."
+
+#: admin/customizer.php:139
+msgid "RSS URL"
+msgstr "RSS URL"
+
+#: admin/customizer.php:132
+msgid "Mention the URL of your Twitter here."
+msgstr "Informe o URL do seu Twitter aqui."
+
+#: admin/customizer.php:131
+msgid "Twitter URL"
+msgstr "URL do Twitter"
+
+#: admin/customizer.php:124
+msgid "Mention the URL of your Facebook here."
+msgstr "Informe o URL do seu Facebook aqui."
+
+#: admin/customizer.php:123
+msgid "Facebook URL"
+msgstr "URL do Facebook"
+
+#: admin/customizer.php:116
+msgid "Quickly add your custom CSS code to your theme by writing the code in this block."
+msgstr "Adicione rapidamente seu código CSS personalizado para seu tema, escrevendo o código neste bloco."
+
+#: admin/customizer.php:108
+msgid "Mention the punch line for your business here."
+msgstr "Informe o slogan do seu negócio aqui."
+
+#: admin/customizer.php:107
+msgid "Home Page Main Heading"
+msgstr "Título principal da página inicial"
+
+#: admin/customizer.php:100
+msgid "Here you can upload a background image for your Website."
+msgstr "Aqui você pode enviar uma imagem de fundo para o seu site."
+
+#: admin/customizer.php:99
+msgid "Body Background"
+msgstr "Plano de Fundo do Corpo"
+
+#: admin/customizer.php:92
+msgid "Here you can upload a Favicon for your Website. Specified size is 16px x 16px."
+msgstr "Aqui você pode enviar um Favicon para seu site. O tamanho esperado é 16px x 16px."
+
+#: admin/customizer.php:84
+msgid "Here you can upload a Logo for your Website."
+msgstr "Aqui você pode enviar um logotipo para seu site."
+
+#: admin/customizer.php:49
+msgid "Allows you to change style using custom css for business directory Theme."
+msgstr "Permite alterar o estilo usando CSS personalizado para o tema Business Directory."
+
+#: admin/customizer.php:48
+msgid "Style Setting"
+msgstr "Configuração de estilo"
+
+#: admin/customizer.php:38
+msgid "Allows you to setup social site link for business directory Theme."
+msgstr "Permite que você configure os links de sites sociais para o tema Business Directory."
+
+#: admin/customizer.php:27
+msgid "Allows you to setup feature area section heading for business directory Theme."
+msgstr "Permite que você configure um título de seção na área destacada para o tema Business Directory."
+
+#: admin/customizer.php:26
+msgid "Home Page Heading"
+msgstr "Cabeçalho da página inicial"
+
+#: admin/customizer.php:16
+msgid "Allows you to customize header logo, favicon, background etc settings for business directory Theme."
+msgstr "Permite que você personalize as configurações de o logotipo do cabeçalho, favicon, plano de fundo, etc. para o tema Business Directory."
+
+#: comments.php:18
+msgid "so far"
+msgstr "até agora"
+
+#: attachment.php:36
+msgid "Full Size"
+msgstr "Tamanho completo"
+
+#: single.php:53
+msgid "Next Post <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Próximo post <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Post "
+msgstr "<span class=\"meta-nav\">&larr;</span> Post anterior "
+
+#: single.php:33
+msgid "Comments"
+msgstr "Comentários"
+
+#: sidebar-footer.php:50
+msgid "Jobs & Lifestyle"
+msgstr "Empregos e estilo de vida"
+
+#: sidebar-footer.php:49
+msgid "Sports & Recreation"
+msgstr "Esportes e recreação"
+
+#: sidebar-footer.php:48
+msgid "Technology"
+msgstr "Tecnologia"
+
+#: sidebar-footer.php:47
+msgid "Entertainment"
+msgstr "Entretenimento"
+
+#: sidebar-footer.php:33
+msgid "October 2009"
+msgstr "Outubro de 2009"
+
+#: sidebar-footer.php:32
+msgid "November 2009"
+msgstr "Novembro de 2009"
+
+#: sidebar-footer.php:31
+msgid "December 2009"
+msgstr "Dezembro de 2009"
+
+#: sidebar-footer.php:30
+msgid "January 2010"
+msgstr "Janeiro de 2010"
+
+#: sidebar-footer.php:28
+msgid "Archives Widget"
+msgstr "Widget de arquivos"
+
+#: sidebar-footer.php:17
+msgid "A cras tincidunt, ut  tellus et. Gravida scel ipsum sed iaculis, nunc non nam. Placerat sed phase llus, purus purus elit."
+msgstr "Um cras tincidunt, ut tellus et. Gravida scel ipsum iaculis sed, nunc não nam. Placerat sed fase llus, purus purus elit."
+
+#: sidebar-footer.php:16
+msgid "About This Site"
+msgstr "Sobre esse site"
+
+#: searchform.php:7 searchform.php:8 sidebar-footer.php:62
+msgid "Search"
+msgstr "Pesquisar"
+
+#: loop.php:13 single.php:22
+msgid "By "
+msgstr "Por "
+
+#: comments.php:17
+msgid "% Responses"
+msgstr "% Respostas"
+
+#: comments.php:17
+msgid "One Response"
+msgstr "Uma resposta"
+
+#: comments.php:17
+msgid "No Responses"
+msgstr "Nenhuma resposta"
+
+#: admin/themes-page.php:296
+msgid "Your Name"
+msgstr "Seu nome"
+
+#: archive.php:38 search.php:23
+msgid "You searched for: %s"
+msgstr "Você pesquisou por: %s"
+
+#: search.php:46
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Nada coincide com seus critérios de busca. Tente outra vez com palavras-chave diferentes."
+
+#: search.php:40
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: loop.php:40 single.php:44
+msgid "No post found."
+msgstr "Nenhum post encontrado."
+
+#: category.php:12
+msgid "Category Archives: %s"
+msgstr "Arquivo da categoria: %s"
+
+#: author.php:16
+msgid "Author Archives: %s"
+msgstr "Arquivo do autor: %s"
+
+#: attachment.php:81
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: attachment.php:36
+msgid "Link to full-size image"
+msgstr "Link para imagem em tamanho real"
+
+#: attachment.php:24
+msgid "View all posts by %s"
+msgstr "Ver todos os posts por %s"
+
+#: archive.php:36
+msgid "Yearly Archives: %s"
+msgstr "Arquivo do ano: %s"
+
+#: archive.php:34
+msgid "Monthly Archives: %s"
+msgstr "Arquivo do mês: %s"
+
+#: archive.php:32
+msgid "Daily Archives: %s"
+msgstr "Arquivo do dia: %s"
+
+#. translators: %1$s: smilie
+#: 404.php:37
+msgid "Try looking in the monthly archives.  %1$s"
+msgstr "Tente procurar nos arquivos mensais. %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "Categorias mais Usadas"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Parece que não encontramos o que você está procurando. Talvez a busca, ou um dos links abaixo, possa ajudar."
+
+#: 404.php:16
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Isso é embaraçoso, não?"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Arquivos"
+
+#: sidebar-footer.php:45 sidebar.php:4
+msgid "Categories"
+msgstr "Categorias"
+
+#: index.php:27
+msgid "&larr; Older posts"
+msgstr "&larr; Posts mais Antigos"
+
+#: index.php:24
+msgid "Newer posts &rarr;"
+msgstr "Posts mais Recentes &rarr;"
+
+#: functions.php:59 functions.php:68
+msgid "not found"
+msgstr "não encontrado"
+
+#: admin/customizer.php:37
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: admin/customizer.php:115
+msgid "Custom CSS"
+msgstr "Personalizar a sua folha de estilo em cascata - CSS"
+
+#: admin/customizer.php:91
+msgid "Custom Favicon"
+msgstr "Favicon Customizado"
+
+#: admin/customizer.php:83
+msgid "Custom Logo"
+msgstr "Personalizar Logo"
+
+#: admin/customizer.php:15
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: admin/business_directory_functions.php:175
+#: admin/business_directory_functions.php:177
+msgid "Fourth Footer Widget Area"
+msgstr "Quarta área de widgets do rodapé"
+
+#: admin/business_directory_functions.php:165
+#: admin/business_directory_functions.php:167
+msgid "Third Footer Widget Area"
+msgstr "Terceira área de widgets do rodapé"
+
+#: admin/business_directory_functions.php:155
+#: admin/business_directory_functions.php:157
+msgid "Second Footer Widget Area"
+msgstr "Segunda área de widgets do rodapé"
+
+#: admin/business_directory_functions.php:145
+#: admin/business_directory_functions.php:147
+msgid "First Footer Widget Area"
+msgstr "Primeira área de widgets do rodapé"
+
+#: admin/business_directory_functions.php:137
+msgid "The default pages for pages widget area"
+msgstr "As páginas padrão para a área de widgets de páginas"
+
+#: admin/business_directory_functions.php:135
+msgid "Pages Widget Area"
+msgstr "Área de widget das páginas"
+
+#: admin/business_directory_functions.php:105
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Adicionar o <a href=\"%3$s\" title=\"Link permanente para %4$s\" rel=\"bookmark\">link permanente</a> aos favoritos."
+
+#: admin/business_directory_functions.php:103
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Esta entrada foi publicada em %1$s. Adicione o <a href=\"%3$s\" title=\"Link permanente para %4$s\" rel=\"bookmark\">link permanente</a> aos seus favoritos."
+
+#: admin/business_directory_functions.php:101
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>"
+msgstr "Esse post foi publicado em %1$s e marcado com %2$s. Coloque o <a href=\"%3$s\" title=\"Link permanente para %4$s\" rel=\"bookmark\">link permanente</a> nos seus favoritos"
+
+#: admin/business_directory_functions.php:53
+#: admin/business_directory_functions.php:55
+msgid "Home"
+msgstr "Início"
+
+#: admin/customizer.php:111 front-page.php:23
+msgid "BUSINESS DIRECTORY LISTING THEME"
+msgstr "TEMA DE ANÚNCIOS EMPRESARIAIS"
+
+#: footer.php:59
+msgid "%1$s by %2$s."
+msgstr "%1$s por %2$s."
+
+#: footer.php:54
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: attachment.php:80
+msgid "Continue reading &rarr;"
+msgstr "Continuar a leitura &rarr;"
+
+#: attachment.php:24
+msgid "By %2$s"
+msgstr "Por %2$s"
+
+#. translators: %s - title of parent post
+#: attachment.php:17
+msgid "<span>&larr;</span> %s"
+msgstr "<span>&larr;</span> %s"
+
+#: attachment.php:14
+msgid "Return to %s"
+msgstr "Retornar para %s"
+
+#: admin/business_directory_functions.php:12
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#. Author URI of the plugin/theme
+msgid "http://www.inkthemes.com"
+msgstr "http://www.inkthemes.com"
+
+#. Author of the plugin/theme
+msgid "inkthemes.com"
+msgstr "inkthemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.inkthemes.com/market/geocraft-directory-listing-wordpress-theme/"
+msgstr "https://www.inkthemes.com/market/geocraft-directory-listing-wordpress-theme/"
